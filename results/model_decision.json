@@ -1,0 +1,6 @@
+{
+    "model": "Logistic Regression",
+    "roc_auc": 0.9487070596320004,
+    "threshold": 0.3,
+    "reason": "Lowered threshold to increase recall for defaulters due to high business cost of false negatives"
+}
